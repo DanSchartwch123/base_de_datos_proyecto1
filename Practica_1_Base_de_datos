@@ -8,3 +8,4 @@ CREATE TABLE usuarios (
 
 INSERT INTO usuarios (nombre) VALUES ('Ana'), ('Luis'), ('Pedro');
  
+-- Hola mi nombre es juanito 
