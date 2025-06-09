@@ -11,3 +11,4 @@ INSERT INTO usuarios (nombre) VALUES ('Ana'), ('Luis'), ('Pedro');
 -- Hola mi nombre es juanito 
 -- Nuevamente tengo este estado en la base de datos
 -- Este es otra estado en que escribo
+-- Ahora te puedes marchar
